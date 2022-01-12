@@ -38,7 +38,7 @@ Masuk ke folder public, buat file baru bernama tailwind.css. Tambahkan kode beri
 ```
 
 ## 5. Tambahkan Script di package.json
-Di dalam package.json, timpakan kode berikut ke dalamnya.
+Di dalam package.json, timpakan kode berikut.
 ```javascript
 // ...
 "scripts": {
